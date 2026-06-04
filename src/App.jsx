@@ -522,22 +522,22 @@ export default function AyushLenses() {
           <h3 className="text-2xl font-bold text-gray-900 mb-8 text-center">Our Products</h3>
           <div className="grid md:grid-cols-4 gap-6">
             <div className="bg-white rounded-lg border border-gray-200 p-6 text-center">
-              <div className="text-3xl mb-4">👓</div>
+              <div className="text-3xl mb-4"></div>
               <h4 className="text-lg font-bold text-gray-900 mb-2">Daily Wear</h4>
               <p className="text-gray-600 text-sm">Comfortable glasses for everyday use</p>
             </div>
             <div className="bg-white rounded-lg border border-gray-200 p-6 text-center">
-              <div className="text-3xl mb-4">😎</div>
+              <div className="text-3xl mb-4"></div>
               <h4 className="text-lg font-bold text-gray-900 mb-2">Sunglasses</h4>
               <p className="text-gray-600 text-sm">UV protection with style</p>
             </div>
             <div className="bg-white rounded-lg border border-gray-200 p-6 text-center">
-              <div className="text-3xl mb-4">🏊</div>
+              <div className="text-3xl mb-4"></div>
               <h4 className="text-lg font-bold text-gray-900 mb-2">Swim Glasses</h4>
               <p className="text-gray-600 text-sm">Perfect for water activities</p>
             </div>
             <div className="bg-white rounded-lg border border-gray-200 p-6 text-center">
-              <div className="text-3xl mb-4">👶</div>
+              <div className="text-3xl mb-4"></div>
               <h4 className="text-lg font-bold text-gray-900 mb-2">Kids Glasses</h4>
               <p className="text-gray-600 text-sm">Fun designs for children</p>
             </div>
