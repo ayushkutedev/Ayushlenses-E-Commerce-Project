@@ -17,7 +17,7 @@ export default function AyushLenses() {
         name: 'Classic Clear Reading',
         price: 1500,
         category: 'normal',
-        image: 'https://images.unsplash.com/photo-1556306510-31ca015374b0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+        image: 'https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/1080x1080/9df78eab33525d08d6e5fb8d27136e95//l/i/black-full-rim-square-lenskart-air-fusion-la-e13069-c1-eyeglasses_g_7876_2_27july23_14_1_2026.jpg',
         description: 'Comfortable daily wear glasses with anti-reflective coating'
       },
       {
@@ -25,7 +25,7 @@ export default function AyushLenses() {
         name: 'Business Professional',
         price: 2000,
         category: 'normal',
-        image: 'https://images.unsplash.com/photo-1595505345098-59eae728c402?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+        image: 'https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/1080x1080/9df78eab33525d08d6e5fb8d27136e95//l/i/black-full-rim-square-lenskart-air-fusion-la-e000127-c1-eyeglasses__dsc2456_27_08_2024.jpg',
         description: 'Premium frames for professional environments'
       },
       {
@@ -33,7 +33,7 @@ export default function AyushLenses() {
         name: 'Blue Light Filter',
         price: 1800,
         category: 'normal',
-        image: 'https://plus.unsplash.com/premium_photo-1734664184395-4691249a1899?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+        image: 'https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/1080x1080/9df78eab33525d08d6e5fb8d27136e95//l/i/blue-sky-full-rim-square-air-essentials-la-e15417-w-c7-eyeglasses_g_6031_16_1_2026.jpg',
         description: 'Reduces digital screen strain and fatigue'
       },
       {
@@ -41,7 +41,7 @@ export default function AyushLenses() {
         name: 'Vintage Style Brown',
         price: 2200,
         category: 'normal',
-        image: 'https://images.unsplash.com/photo-1697827320369-444d590cbcbb?q=80&w=1217&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+        image: 'https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/1080x1080/9df78eab33525d08d6e5fb8d27136e95//v/i/black-full-rim-square-vincent-chase-classic-acetate-ls-e15666-c2-eyeglasses_img_9612_29_dec23.jpg',
         description: 'Timeless design with modern comfort'
       },
       {
@@ -49,7 +49,7 @@ export default function AyushLenses() {
         name: 'Slim Metal Frame',
         price: 2500,
         category: 'normal',
-        image: 'https://images.unsplash.com/photo-1646084081219-1090f72a531c?q=80&w=996&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+        image: 'https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/1080x1080/9df78eab33525d08d6e5fb8d27136e95//v/i/black-full-rim-geometric-vincent-chase-sleek-steel-vc-e15478-c2-eyeglasses_g_9366_05_16_23.jpg',
         description: 'Lightweight titanium construction'
       },
       {
@@ -57,7 +57,7 @@ export default function AyushLenses() {
         name: 'Cat Eye Trendy',
         price: 1900,
         category: 'normal',
-        image: 'https://images.unsplash.com/photo-1652837345706-6a0f9c0148c0?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+        image: 'https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/1080x1080/9df78eab33525d08d6e5fb8d27136e95//l/i/silver-grey-transparent-full-rim-square-lenskart-air-fusion-la-e17017-c1-eyeglasses__dsc4915_28_05_2024_28_05_2024.jpg',
         description: 'Fashionable and elegant design'
       }
     ],
@@ -67,7 +67,7 @@ export default function AyushLenses() {
         name: 'UV Protection Black',
         price: 3000,
         category: 'sunglasses',
-        image: 'https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=600&h=600&fit=crop&q=80',
+        image: 'https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/1080x1080/9df78eab33525d08d6e5fb8d27136e95//v/i/grey-black-full-rim-rectangle-vincent-chase-polarized-vc-sun-metal-vcs000465-sunglasses__dsc1197_28_01_2025.jpg',
         description: '100% UV protection for outdoor activities'
       },
       {
@@ -75,7 +75,7 @@ export default function AyushLenses() {
         name: 'Polarized Blue Lens',
         price: 3500,
         category: 'sunglasses',
-        image: 'https://images.unsplash.com/photo-1678550689244-9ab1e19acc0a?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+        image: 'https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/1080x1080/9df78eab33525d08d6e5fb8d27136e95//v/i/silver-black-sky-blue-mirror-full-rim-aviator-shape-vincent-chase-polarized-the-metal-edit-vc-s11075-c7-polarized-sunglasses_vincent-chase-polarized-vc-s11075-c7-sunglasses_sunglasses_g_4936_1_1_5july23.jpg',
         description: 'Eliminates glare from reflective surfaces'
       },
       {
@@ -83,7 +83,7 @@ export default function AyushLenses() {
         name: 'Aviator Gold',
         price: 4000,
         category: 'sunglasses',
-        image: 'https://images.unsplash.com/photo-1774791697891-00796be50f2b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+        image: 'https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/1080x1080/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vc-s158-vintage-1-c3-sunglasses_g_8599_16_08_2023.jpg',
         description: 'Classic pilot style with modern lens technology'
       },
       {
@@ -91,7 +91,7 @@ export default function AyushLenses() {
         name: 'Wayfarer Brown Shades',
         price: 3200,
         category: 'sunglasses',
-        image: 'https://images.unsplash.com/photo-1691414920085-5b2e3d2478a4?q=80&w=1633&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+        image: 'https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/1080x1080/9df78eab33525d08d6e5fb8d27136e95//j/i/gold-tortoise-brown-full-rim-aviator-john-jacobs-jj-rhapsody-jj-s15328-c1-sunglasses_g_3001_02_13_23.jpg',
         description: 'Versatile warm tone for all face shapes'
       },
       {
@@ -99,7 +99,7 @@ export default function AyushLenses() {
         name: 'Oversized Mirror',
         price: 3800,
         category: 'sunglasses',
-        image: 'https://images.unsplash.com/photo-1718579631572-c2016d5dcd85?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+        image: 'https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/1080x1080/9df78eab33525d08d6e5fb8d27136e95//v/i/vincent-chase-vcs000557-c1-black-sunglasses_dsc9610_28_01_2025.jpg',
         description: 'Trendy oversized design with mirrored lens'
       },
       {
@@ -107,7 +107,7 @@ export default function AyushLenses() {
         name: 'Sports Wrap Around',
         price: 2800,
         category: 'sunglasses',
-        image: 'https://images.unsplash.com/photo-1708799366362-f3533dd266c2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+        image: 'https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/1080x1080/9df78eab33525d08d6e5fb8d27136e95//j/i/black-grey-full-rim-rectangle-john-jacobs-jj-tints-jj-s16886-c1-sunglasses_img_0818_15_03_2024.jpg',
         description: 'Perfect for sports and outdoor adventures'
       }
     ],
@@ -537,7 +537,7 @@ export default function AyushLenses() {
               <p className="text-gray-600 text-sm">Perfect for water activities</p>
             </div>
             <div className="bg-white rounded-lg border border-gray-200 p-6 text-center">
-              <div className="text-3xl mb-4"></div>
+              <div className="text-3xl mb-4">P</div>
               <h4 className="text-lg font-bold text-gray-900 mb-2">Kids Glasses</h4>
               <p className="text-gray-600 text-sm">Fun designs for children</p>
             </div>
