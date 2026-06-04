@@ -537,7 +537,7 @@ export default function AyushLenses() {
               <p className="text-gray-600 text-sm">Perfect for water activities</p>
             </div>
             <div className="bg-white rounded-lg border border-gray-200 p-6 text-center">
-              <div className="text-3xl mb-4">P</div>
+              <div className="text-3xl mb-4"></div>
               <h4 className="text-lg font-bold text-gray-900 mb-2">Kids Glasses</h4>
               <p className="text-gray-600 text-sm">Fun designs for children</p>
             </div>
